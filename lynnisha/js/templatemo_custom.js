@@ -32,7 +32,7 @@ jQuery(document).ready(function($) {
 
 	$(".main-menu a.blogbutton").click(function(){
 		$("#menu-container .content").slideUp('slow');
-		$("#menu-container .blog-section").slideDown('slow');
+		$("# .blog-section").slideDown('slow');
 		return false;
 	});
 
