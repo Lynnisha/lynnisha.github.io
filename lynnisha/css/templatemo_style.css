@@ -270,6 +270,7 @@ h2.welcome-title {
 
 .project-item img {
     width: 100%;
+    height: 300px;
     display: block;
 }
 
@@ -279,7 +280,7 @@ h2.welcome-title {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(169,91,195,0.9);
+    background: rgba(78, 146, 201, 0.87);
     text-align: center;
     opacity: 0;
     -webkit-transition: all 200ms ease-in-out;
